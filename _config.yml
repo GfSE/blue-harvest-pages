@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Blue Harvest
+description: Welcome page for working group Blue Harvest
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://gfse.github.io/blue-harvest-pages
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Repo: https://github.com/GfSE/blue-harvest-pages
